@@ -3,6 +3,7 @@ body {
     margin: 1;
     padding: 1;
     display: flex;
+    background-color: aqua;
   }
   
   #menu {
