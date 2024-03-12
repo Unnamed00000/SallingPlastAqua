@@ -1,7 +1,7 @@
 {
-  "name": "Название вашего приложения",
-  "short_name": "Краткое название",
-  "description": "Описание вашего приложения",
+  "name": "SallingPlast",
+  "short_name": "SPA",
+  "description": "Plast",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
